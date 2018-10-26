@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Borderify",
+  "name": "Globe and Mail Reader",
   "version": "1.0",
   "description": "Adds a red border to all webpages matching mozilla.org.",
   "permissions": [
